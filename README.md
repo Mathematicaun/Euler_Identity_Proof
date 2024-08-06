@@ -19,4 +19,4 @@ The provided code generates an animation demonstrating Euler's Identity using th
 - [NumPy](https://numpy.org/)
 
 ## Follow me on:
-  [Youtube](https://www.youtube.com/@Mathematicaun),  [Instagram](https://twitter.com/Mathematicaun),  [Follow](https://linktr.ee/mathematicaun),  [Discord](https://discord.gg/7scZm3FM6t)
+  [Youtube](https://www.youtube.com/@Mathematicaun),  [Instagram](instagram.com/mathematicaun),  [X](https://twitter.com/Mathematicaun),  [Follow](https://linktr.ee/mathematicaun),  [Discord](https://discord.gg/7scZm3FM6t)
