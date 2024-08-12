@@ -4,11 +4,11 @@ class EULER_IDENTITY(Scene):
     def construct(self):
 
         logo = ImageMobject(
-            r'C:\Users\azahr\OneDrive\Documents\Files\Picturs\logo.png'
+            r'Path\logo.png' # a logo
         ).shift(11.7*UP + 6.2*RIGHT).scale(.2).set_opacity(.9)
 
         background = ImageMobject(
-            r'C:\Users\azahr\OneDrive\Documents\Files\Picturs\Leonhard_Euler.jpg')
+            r'Path\Leonhard_Euler.jpg') # a picture of Leonhard Euler
         background.set_width(self.camera.frame_width)
         background.set_height(self.camera.frame_height)
         background.set_opacity(.25)
